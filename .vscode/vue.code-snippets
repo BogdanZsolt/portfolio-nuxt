@@ -1,0 +1,40 @@
+{
+  "vue": {
+    "scope": "vue",
+    "prefix": "vue",
+    "body": [
+      "<script setup>",
+      "",
+      "</script>",
+      "",
+      "<template>",
+      "  <div>",
+      "",
+      "  </div>",
+      "</template>",
+      "",
+      "<style lang='scss' scoped>",
+      "",
+      "</style>"
+    ],
+    "description": "create vue sceleton"
+  },
+  "vtemplate": {
+    "scope": "vue",
+    "prefix": "vtemplate",
+    "body": ["<template>", "  <div>", "", "  </div>", "</template>"],
+    "description": "create vue template sceleton"
+  },
+  "vscript": {
+    "scope": "vue",
+    "prefix": "vscript",
+    "body": ["<script setup>", "", "</script>"],
+    "description": "create vue scrip sceleton"
+  },
+  "vstyle": {
+    "scope": "vue",
+    "prefix": "vstyle",
+    "body": ["<style lang='scss' scoped>", "", "</style>"],
+    "description": "create vue style sceleton"
+  }
+}
